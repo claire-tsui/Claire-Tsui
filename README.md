@@ -1,8 +1,7 @@
 ## Claire Tsui
 
-👩‍💻 Applied Math Major | Computer Science Minor @ UC San Diego | Full-stack Developer Intern @ OwlTing Group  
-📧 claire.yc.tsui@gmail.com | 📞 +1 858-531-3721 | 🌐 LinkedIn: Claire Tsui  
-🏠 Address: 8540 Costa Verde Blvd., San Diego, CA 92122  
+👩‍💻 Applied Math Major | Computer Science Minor @ UC San Diego   
+
 
 ### Education
 🎓 University of California, San Diego (UCSD)  
