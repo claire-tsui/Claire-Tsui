@@ -12,8 +12,7 @@
    and impactful digital solutions.
 
 ### Programming Projects
-🖥️ [Java](link)
+🖥️ [Java](Java)
 
-🖥️ [C]([link](https://github.com/claire-tsui/claire-tsui/tree/main/C)https://github.com/claire-tsui/claire-tsui/tree/main/C)
-
+🖥️ [C](https://github.com/claire-tsui/claire-tsui/tree/main/C)
 
