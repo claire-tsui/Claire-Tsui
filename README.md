@@ -14,5 +14,5 @@
 ### Programming Projects
 🖥️ [Java](Java)
 
-🖥️ [C](https://github.com/claire-tsui/claire-tsui/tree/main/C)
+🖥️ [C](C)
 
