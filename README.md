@@ -5,4 +5,4 @@ and the actuarial profession, and am receptive to embracing new experiences.
 As I progress in my career, I am excited to leverage the knowledge and skills acquired from the internship and academic 
 endeavors to continue building innovative and impactful digital solutions. 
 
-Feel free to reach me through my [email](claire.yc.tsui@gmail.com)! 
+Feel free to reach me through my [email](mailto:claire.yc.tsui@gmail.com)! 
