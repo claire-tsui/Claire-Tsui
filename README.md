@@ -1,7 +1,4 @@
-## Claire Tsui
-
-👩‍💻 Applied Math Major | Computer Science Minor @ UC San Diego   
-
+**## Claire Tsui**
 
 ### Education
 🎓 University of California, San Diego (UCSD)  
