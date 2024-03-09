@@ -39,8 +39,10 @@
 
 ### Skills
 💻 Programming Languages:  
-   - Java/ C/ PHP/ HTML/ CSS/ Python/ Matlab/ RStudio  
+   - Java/ C/ PHP/ HTML/ CSS/ Python/ Matlab/ RStudio
+     
 💬 Languages:  
    - Fluent in English and Mandarin  
-   - Slightly understand Spanish  
-⚙️ Problem-solving, time management, and critical thinking skills  
+   - Slightly understand Spanish
+     
+💭 Problem-solving, time management, and critical thinking skills  
