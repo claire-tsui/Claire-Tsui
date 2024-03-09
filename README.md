@@ -12,6 +12,7 @@
    and impactful digital solutions.
 
 ### Programming Projects
-🖥️ [pa1](link)
+🖥️ [Java](link)
+🖥️ [C](link)
 
 
