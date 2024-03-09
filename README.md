@@ -13,6 +13,7 @@
 
 ### Programming Projects
 🖥️ [Java](link)
-🖥️ [C](link)
+
+🖥️ [C]([link](https://github.com/claire-tsui/claire-tsui/tree/main/C)https://github.com/claire-tsui/claire-tsui/tree/main/C)
 
 
