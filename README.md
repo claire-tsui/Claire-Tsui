@@ -1,7 +1,7 @@
 ## Claire Tsui
 
 ### Education
-🎓 University of California, San Diego (UCSD)  
+🎓 University of California, San Diego
    - Major: Applied Math / Minor: Computer Science  
    - Dates: Sept 2021 - Jun 2025
 
