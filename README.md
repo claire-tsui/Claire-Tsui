@@ -15,5 +15,3 @@
 🖥️ [Java](Java)
 
 🖥️ [C](C)
-
-🖥️ [Data Analysis Project](Data Analysis Project)
