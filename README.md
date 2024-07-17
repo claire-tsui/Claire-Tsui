@@ -2,7 +2,7 @@
 
 ### Education
 🎓 University of California, San Diego
-   - Major: Applied Math / Minor: Computer Science  
+   - Major: Mathematics (Applied) / Minor: Computer Science  
    - Dates: Sept 2021 - Jun 2025
 
 ### Intro 
