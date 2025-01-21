@@ -14,6 +14,6 @@
 ### Programming Projects
 🖥️ [Java](Java)
 
-🖥️ [C](C)
+🖥️ [C++](C++)
 
 🖥️ [Data Analysis Project](DS_project_ucsd)
