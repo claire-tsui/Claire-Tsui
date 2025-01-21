@@ -30,7 +30,7 @@
 
 
 ### Leadership/Activities
-🤝 Triple C (Chinese Computer Community) | Public Relation | UC San Diego | Feb 2023 - Present  
+🤝 Triple C (Chinese Computer Community) | Public Relation | UC San Diego | Feb 2023 - Dec 2024  
    - Responsible for finding sponsors and collaborations for club activities  
    - Managed official Weixin account and posted feeds as per schedule
 
