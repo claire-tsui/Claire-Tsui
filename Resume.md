@@ -4,13 +4,19 @@
 
 ### Education
 🎓 University of California, San Diego 
-   - Major: Applied Math / Minor: Computer Science  
-   - Dates: Sept 2021 - Jun 2025  
+   - Major: Applied Mathematics / Minor: Computer Science  
+   - Dates: Sept 2021 - Mar 2025  
 
 ### Work Experience
+💼 PetMap | Software Engineer (Front-end Developer) | San Diego, CA (Online) | Oct 2024- present
+   - Implement interactive Google map view using API, managing map initialization, customizing the map markers, and optimizing components for performance
+   - Develop and maintain scalable, responsive PetMap web utilizing frontend technologies such as HTML, Tailwind CSS, JS, and frameworks such as React.js
+   - Use GitHub for version control and collaboration, merging code changes, and working closely with other developers to ensure seamless integration and project progression
+                                                                                                                        
 💼 Academia Sinica (Institute of Statistical Science) | Research Intern | Taipei, Taiwan | Jul 2024- Aug 2024
-   - Developed and conceptualized a research project under the Cancer Moonshot initiative
-   - Performed correlation analysis between gene expression levels and phenotypic traits
+   - Developed and conceptualized a research project under the Cancer Moonshot initiative, focusing on innovative strategies to target and analyze cancer-related biomarkers
+   - Performed correlation analysis between gene expression levels and phenotypic traits to identify key genetic markers
+   - Designed and generated detailed visualizations for gene expression patterns using R
 
 💼 OwlTing Group | Full-stack Developer Intern | New Taipei City, Taiwan | Jul 2023 - Aug 2023  
    - Utilized PHP programming language to design a blog website featuring auto-complete searching, user/ post creation, tags, comments, categories, etc 
@@ -42,17 +48,17 @@
 
 
 ### Relevant Coursework
-**Math**: Linear Algebra, Vector Calculus, Differential Equations, Statistics, Mathematical Reasoning, Data Analysis, Probability, and Cryptography
+**Math**: Calculus, Linear Algebra, Statistics, Probability, Differential Equations, Mathematical Reasoning, Data Analysis, Optimization
 
-**Computer Science**: Algorithms, Data Structures, Computer Organization, Software Tools, and Data Mining
+**Computer Science**: Web Development, Data Structures, Computer Organization, Data Mining, Recommender System
 
 
 ### Skills
 💻 Technical skills
-   - Java, C++, Python, PHP, HTML, CSS, Matlab, RStudio, LaTeX, Bash 
+   - Java, Python, C++, PHP, HTML, CSS, JavaScript, LaTeX, Matlab, RStudio, Bash 
 
 💬 Languages:  
    - Fluent in English and Mandarin  
-   - Slightly understand Spanish
+   - Slightly understand Spanish and Korean
      
 💭 Problem-solving, time management, and critical thinking skills  
