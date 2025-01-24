@@ -17,7 +17,7 @@
 
 🖥️ [PetMap Web Design](https://679324c68dee2a8dc74be9a3--fanciful-gaufre-370688.netlify.app)
 
-The following are private files. Feel free to request access approval.
+#### Note: The following are private files. Feel free to request access approval.
 
 🖥️ [Java](https://github.com/claire-tsui/Programming-Projects/tree/a8b2afcb1b0cbc01916cc3aa1a2f86a02323a156/Java)
 
