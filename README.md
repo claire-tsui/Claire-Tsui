@@ -17,8 +17,10 @@
 
 🖥️ [PetMap Web Design](https://679324c68dee2a8dc74be9a3--fanciful-gaufre-370688.netlify.app)
 
-🖥️ [Java](Java)
+The following are private files. Feel free to request access approval.
 
-🖥️ [C++](C++)
+🖥️ [Java](https://github.com/claire-tsui/Programming-Projects/tree/a8b2afcb1b0cbc01916cc3aa1a2f86a02323a156/Java)
 
-🖥️ [Data Analysis Project](DS_project_ucsd)
+🖥️ [C++](https://github.com/claire-tsui/Programming-Projects/tree/a8b2afcb1b0cbc01916cc3aa1a2f86a02323a156/C%2B%2B)
+
+🖥️ [Data Analysis Project](https://github.com/claire-tsui/Programming-Projects/tree/a8b2afcb1b0cbc01916cc3aa1a2f86a02323a156/DS_project_ucsd)
