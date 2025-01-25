@@ -13,11 +13,13 @@
 
 ### Programming Projects
 
+#### Web Design
+
 🖥️ [Resume Website](https://679433f0dc33b600085dbf4a--fanciful-gaufre-370688.netlify.app)
 
 🖥️ [PetMap Web Design](https://679324c68dee2a8dc74be9a3--fanciful-gaufre-370688.netlify.app)
 
-#### Note: The following are private files. Feel free to request access approval.
+#### The following are private files. Feel free to request access approval.
 
 🖥️ [C++](https://github.com/claire-tsui/Programming-Projects/tree/a8b2afcb1b0cbc01916cc3aa1a2f86a02323a156/C%2B%2B)
 
