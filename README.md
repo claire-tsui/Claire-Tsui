@@ -3,7 +3,7 @@
 ### Education
 🎓 University of California, San Diego
    - Major: Mathematics (Applied) / Minor: Computer Science  
-   - Dates: Sept 2021 - Mar 2025
+   - Dates: Sept 2021 - Jun 2025
 
 ### Intro 
 💬 My interests span web development and data analysis, and am receptive to embracing 
