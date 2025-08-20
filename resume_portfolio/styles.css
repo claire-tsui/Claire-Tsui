@@ -270,8 +270,11 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .c {
+.about-stats .progress-bars .progress-bar .progress-con .progress .cplus {
   width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .csharp {
+  width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
   width: 80%;
@@ -280,13 +283,10 @@ section {
   width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 55%;
+  width: 70%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .php {
   width: 40%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .latex {
-  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .english {
   width: 100%;
