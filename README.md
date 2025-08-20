@@ -15,7 +15,7 @@
 
 #### Web Design
 
-🖥️ [Resume Website](https://679433f0dc33b600085dbf4a--fanciful-gaufre-370688.netlify.app)
+🖥️ [Resume Website](https://fanciful-gaufre-370688.netlify.app/)
 
 🖥️ [PetMap Web Design](https://679324c68dee2a8dc74be9a3--fanciful-gaufre-370688.netlify.app)
 
