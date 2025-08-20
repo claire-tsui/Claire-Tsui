@@ -1,15 +1,9 @@
-## Claire Tsui
+## Claire Tsui | Full-stack Devloper at GIGABYTE
 
 ### Education
 🎓 University of California, San Diego
    - Major: Mathematics (Applied) / Minor: Computer Science  
    - Dates: Sept 2021 - Jun 2025
-
-### Intro 
-💬 Currently a full-stack developer at GIGABYTE. My interests span web development and data analysis, and am receptive to embracing 
-   new experiences. As I progress in my career, I am excited to leverage the knowledge 
-   and skills acquired from the internship and academic endeavors to continue building innovative 
-   and impactful digital solutions.
 
 ### Programming Projects
 
