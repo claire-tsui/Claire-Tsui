@@ -274,16 +274,13 @@ section {
   width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .csharp {
-  width: 60%;
+  width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .htmlCssJs {
+  width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 70%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .php {
   width: 40%;
